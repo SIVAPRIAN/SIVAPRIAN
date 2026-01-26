@@ -2,7 +2,7 @@
 I’m Siva Prian, a Computer Science student (CSE(CS), Batch 2028) with a strong interest in cybersecurity and cloud security.<br>I enjoy understanding how systems, networks, and operating systems work at a deeper level.<br>I’m curious about vulnerabilities, system protection, and secure design principles.<br>I prefer hands-on learning and exploring real-world security concepts.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ro0kie_b0y) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siv__prizz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-prian-m-17b975316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivaprian42@gmail.com) 
 
 # 💻 Tech Stack:
@@ -13,7 +13,7 @@ I’m Siva Prian, a Computer Science student (CSE(CS), Batch 2028) with a strong
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVAPRIAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=SIVAPRIAN&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🔗 Connect with me 
+# 🔗 Connect with me 
   <p align="center">
   🌐 Live Portfolio: <a href="https://sivaprian.github.io/PORTFOLIO-/" target="_blank">
   https://sivaprian.github.io/PORTFOLIO-/
