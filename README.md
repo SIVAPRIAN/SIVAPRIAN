@@ -15,7 +15,7 @@ I’m Siva Prian, a Computer Science student (CSE(CS), Batch 2028) with a strong
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 🔗 Connect with me 
   <p align="center">
-  🌐 Live Portfolio: <a href="https://sivaprian.github.io/PORTFOLIO-/" target="_blank">
+  🌐 Live Portfolio: <a href="https://portfolio-sivaprianm.vercel.app/" target="_blank">
   https://sivaprian.github.io/PORTFOLIO-/
   </a>
     
