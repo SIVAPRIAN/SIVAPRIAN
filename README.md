@@ -16,7 +16,7 @@ I’m Siva Prian, a Computer Science student (CSE(CS), Batch 2028) with a strong
 # 🔗 Connect with me 
   <p align="center">
   🌐 Live Portfolio: <a href="https://portfolio-sivaprianm.vercel.app/" target="_blank">
-  https://sivaprian.github.io/PORTFOLIO-/
+  https://portfolio-sivaprianm
   </a>
     
 ---
