@@ -39,7 +39,7 @@ I’m **Siva Prian M**, a Computer Science Engineering student specializing in *
 - 🤖 AI/ML
 
 
-# 🚀 What I'm Working On:
+# 💻 What I'm Working On:
 
 - Full-stack web applications
 - Software development projects
@@ -47,11 +47,11 @@ I’m **Siva Prian M**, a Computer Science Engineering student specializing in *
 - DSA & competitive programming practice
 - Exploring scalable application architecture
 
+- 
+# 🚀 Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SIVAPRIAN&" alt="SIVAPRIAN" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SIVAPRIAN&show_icons=true&locale=en&layout=compact" alt="SIVAPRIAN" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SIVAPRIAN&show_icons=true&locale=en" alt="SIVAPRIAN" /></p>
 
 
 # 🔗 Connect With Me:
