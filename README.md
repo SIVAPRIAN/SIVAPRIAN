@@ -21,7 +21,9 @@ I’m **Siva Prian M**, a Computer Science Engineering student specializing in *
 - 
 # 🚀 Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SIVAPRIAN&" alt="SIVAPRIAN" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIVAPRIAN&theme=github_dark" />
+</p>
 
 
 
