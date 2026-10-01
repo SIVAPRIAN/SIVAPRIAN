@@ -15,7 +15,239 @@ I’m **Siva Prian M**, a Computer Science Engineering student specializing in *
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+
+<h4 align="left">💻 Programming Languages</h4>
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python"/>
+<br><sub>Python</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++"/>
+<br><sub>C++</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.c-language.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/>
+<br><sub>C</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
+<br><sub>Java</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://kotlinlang.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="Kotlin"/>
+<br><sub>Kotlin</sub>
+</a>
+</p>
+
+<h4 align="left">🌐 Web & Application Development</h4>
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML"/>
+<br><sub>HTML</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"/>
+<br><sub>CSS</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/>
+<br><sub>Bootstrap</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
+<br><sub>React</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://reactnative.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React Native"/>
+<br><sub>React Native</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
+<br><sub>Next.js</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
+<br><sub>Tailwind CSS</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://flutter.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter"/>
+<br><sub>Flutter</sub>
+</a>
+</p>
+
+<h4 align="left">⚙️ Backend & APIs</h4>
+
+<p align="left">
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
+<br><sub>Node.js</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js"/>
+<br><sub>Express.js</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"/>
+<br><sub>FastAPI</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django"/>
+<br><sub>Django</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://graphql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL"/>
+<br><sub>GraphQL</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://nestjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="NestJS"/>
+<br><sub>NestJS</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://spring.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/>
+<br><sub>Spring</sub>
+</a>
+</p>
+
+<h4 align="left">☁️ Cloud, DevOps & Systems</h4>
+
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
+<br><sub>AWS</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/>
+<br><sub>Azure</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
+<br><sub>Docker</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/>
+<br><sub>Kubernetes</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins"/>
+<br><sub>Jenkins</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+<br><sub>Git</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/>
+<br><sub>Linux</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/>
+<br><sub>Bash</sub>
+</a>
+</p>
+
+<h4 align="left">🗄️ Databases & Data</h4>
+
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
+<br><sub>MongoDB</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
+<br><sub>MySQL</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/>
+<br><sub>PostgreSQL</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.oracle.com/database/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+<br><sub>Oracle</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"/>
+<br><sub>Firebase</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+<br><sub>NumPy</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+<br><sub>Pandas</sub>
+</a>
+</p>
+
+<h4 align="left">🤖 AI / Machine Learning</h4>
+
+<p align="left">
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch"/>
+<br><sub>PyTorch</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow"/>
+<br><sub>TensorFlow</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://cdn.simpleicons.org/huggingface" width="45" height="45" alt="Hugging Face"/>
+<br><sub>Hugging Face</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://ollama.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/ollama" width="45" height="45" alt="Ollama"/>
+<br><sub>Ollama</sub>
+</a>
+</p>
+
+<h4 align="left">🛠️ Tools & Platforms</h4>
+
+<p align="left">
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/>
+<br><sub>Postman</sub>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.framer.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/framer" width="45" height="45" alt="Framer"/>
+<br><sub>Framer</sub>
+</a>
+</p>
 
 
 - 
