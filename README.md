@@ -1,16 +1,16 @@
-# 💫 About Me:
+# 💫 About Me
 
-I’m **Siva Prian M**, a Computer Science Engineering student specializing in **Cybersecurity** at **Chennai Institute of Technology** (Batch 2028).
+👋 **Hi, I’m Siva Prian M**, a Computer Science Engineering student specializing in **Cybersecurity** at **Chennai Institute of Technology**, Batch 2028.
 
-💻 My current focus is **Software Development**, with a strong interest in building practical, scalable, and user-focused applications.
+💻 I’m passionate about **software development** and enjoy turning ideas into **practical, scalable, and meaningful applications**.
 
-🚀 I enjoy turning ideas into real projects and exploring technologies across **Full-Stack Development, Backend Development, Cloud, and AI/ML**.
+🚀 I love exploring new ideas, building projects from the ground up, and solving problems through **creative and practical engineering**.
 
-🌱 I’m continuously learning new technologies while strengthening my fundamentals in **C++, Python, JavaScript, TypeScript, React, Node.js, and system design**.
+🧠 I’m interested in the intersection of **software, cloud, AI, and cybersecurity**, and I enjoy understanding how different systems come together to create better solutions.
 
-🔐 With a background in cybersecurity, I also try to bring **security-aware thinking** into the software I build.
+🔐 My cybersecurity background gives me a **security-conscious perspective** when designing and developing applications, with an emphasis on building systems that are reliable and resilient.
 
-🎯 Currently focused on becoming a stronger **Software Developer** through DSA, projects, hackathons, and hands-on development.
+🌱 I believe in **learning by building** — experimenting, taking on challenging projects, participating in hackathons and CTFs, and continuously improving through hands-on experience.
 
 
 
