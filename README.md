@@ -13,7 +13,7 @@
 🌱 I believe in **learning by building** — experimenting, taking on challenging projects, participating in hackathons and CTFs, and continuously improving through hands-on experience.
 
 
-
+.
 
 
 # 🛠️ Languages and Tools:
@@ -238,7 +238,7 @@
 </table>
 
 
-
+.
 
 
 
@@ -250,7 +250,7 @@
 
 
 
-
+.
 
 
 # 🔗 Connect With Me:
@@ -271,3 +271,5 @@
 ---
 
 ### ⚡ Building. Learning. Solving. Improving.
+
+---
