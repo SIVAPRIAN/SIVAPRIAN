@@ -30,9 +30,12 @@ I’m **Siva Prian M**, a Computer Science Engineering student specializing in *
 # 🔗 Connect With Me:
 
 <p align="left">
-<a href="https://github.com/https://github.com/SIVAPRIAN/SIVAPRIAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/SIVAPRIAN/SIVAPRIAN" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siva-prian-2006-m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siva-prian-2006-m/" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/M_SIVAPRIAN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/M_SIVAPRIAN/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siva-prian-2006-m/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siva-prian-2006-m" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/M_SIVAPRIAN/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="M_SIVAPRIAN" height="30" width="40" />
+</a>
 </p>
 
 ---
